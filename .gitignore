@@ -1,0 +1,27 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración del editor
+.vscode/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos locales
+data/
+*.xlsx
+
+# Archivos binarios, imágenes temporales
+*.ico
+*.png
+
+# Archivos de entorno
+.env
